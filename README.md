@@ -12,7 +12,6 @@
 
 <body class="bg-gray-100 text-gray-800">
 
-    <!-- NAVIGATION -->
     <nav class="bg-gray-900 text-white py-4">
         <div class="max-w-6xl mx-auto flex justify-between items-center px-6">
             <h1 class="text-lg font-semibold">Maureen Muchoki</h1>
@@ -99,7 +98,6 @@
         </div>
     </section>
 
-    <!-- CONTACT SECTION -->
     <section id="contact" class="bg-gray-200">
         <div class="max-w-md mx-auto px-6">
             <h2 class="text-center text-xl font-bold mb-8">Contact Me</h2>
@@ -135,7 +133,6 @@
         </div>
     </section>
 
-    <!-- FOOTER -->
     <footer class="bg-gray-900 text-gray-400 text-center py-4 text-sm">
         © 2025 Maureen Muchoki. Built with ❤️ and Tailwind CSS.
     </footer>
